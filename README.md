@@ -54,7 +54,8 @@ httpd.server_forever()
 
 
 # OUTPUT:
-[OUTPUT](OUTPUT.png)
+![output](OUTPUT.png)
+![output](outdone.png)
 # RESULT:
 
 The program is executed succesfully
